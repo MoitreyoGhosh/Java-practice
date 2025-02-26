@@ -16,7 +16,7 @@ class cls2 extends cls1{
     }
 }
 
-public class addW3A2 {
+public class W3A2 {
 
     public static void main(String args[])
     {

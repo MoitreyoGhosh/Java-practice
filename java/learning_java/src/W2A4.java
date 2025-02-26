@@ -15,7 +15,7 @@ class Car {
             System.out.println();
     }
 }
-public class CarW2A4{
+public class W2A4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String brand1 = sc.next();

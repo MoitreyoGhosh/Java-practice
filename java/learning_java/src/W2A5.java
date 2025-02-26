@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BookW2A5 {
+public class W2A5 {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
             String title = sc.next();

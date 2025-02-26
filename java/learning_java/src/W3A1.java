@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FactorialW3A1 {
+public class W3A1 {
      static int factorial(int x) {
          if(x==0)
             return  1;

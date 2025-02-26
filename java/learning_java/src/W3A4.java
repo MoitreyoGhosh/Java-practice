@@ -25,7 +25,7 @@ class Student1 {
         this.name = name;
     }
 }
-public class StudentW3A4 {
+public class W3A4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

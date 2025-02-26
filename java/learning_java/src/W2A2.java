@@ -25,7 +25,7 @@ class Student {
     }
 }
 
-public class StudentW2A2 {
+public class W2A2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

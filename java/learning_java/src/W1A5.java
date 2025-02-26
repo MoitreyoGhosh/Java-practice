@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class pattern1 {
+public class W1A5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
